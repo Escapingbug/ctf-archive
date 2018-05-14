@@ -1,0 +1,12 @@
+[submodule "defcon-quals-2018/pwn/shellql/chall-shellql"]
+	path = defcon-quals-2018/pwn/shellql/chall-shellql
+	url = https://github.com/o-o-overflow/chall-shellql.git
+[submodule "defcon-quals-2018/pwn/EC3/chall-ec-3"]
+	path = defcon-quals-2018/pwn/EC3/chall-ec-3
+	url = https://github.com/o-o-overflow/chall-ec-3.git
+[submodule "defcon-quals-2018/pwn/www/chall-www"]
+	path = defcon-quals-2018/pwn/www/chall-www
+	url = https://github.com/o-o-overflow/chall-www.git
+[submodule "defcon-quals-2018/pwn/babypwn1805/chall-babypwn1805"]
+	path = defcon-quals-2018/pwn/babypwn1805/chall-babypwn1805
+	url = https://github.com/o-o-overflow/chall-babypwn1805.git
